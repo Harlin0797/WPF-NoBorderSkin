@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF-NoBorderSkin", "WPF-NoBorderSkin\WPF-NoBorderSkin.csproj", "{A9D82137-BE6C-45F1-9F1C-889768B6BCC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMSkin.WPF", "DMSkin.WPF\DMSkin.WPF.csproj", "{168352B1-6A0C-4C9C-8A32-68B512DA3CFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9D82137-BE6C-45F1-9F1C-889768B6BCC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D82137-BE6C-45F1-9F1C-889768B6BCC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D82137-BE6C-45F1-9F1C-889768B6BCC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D82137-BE6C-45F1-9F1C-889768B6BCC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{168352B1-6A0C-4C9C-8A32-68B512DA3CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{168352B1-6A0C-4C9C-8A32-68B512DA3CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{168352B1-6A0C-4C9C-8A32-68B512DA3CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{168352B1-6A0C-4C9C-8A32-68B512DA3CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {736F12C6-3FC7-4135-81CC-40EFAFCB0A76}
+	EndGlobalSection
+EndGlobal
